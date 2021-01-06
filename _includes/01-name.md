@@ -1,4 +1,4 @@
-#the head
-##the neck
+# the head
+## the neck
 the booty
-###the feet
+### the feet
